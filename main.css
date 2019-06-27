@@ -1,8 +1,30 @@
 h1 {
-    color: red;
+    color:rgb(0, 255, 98)
+
+    ;
 }
 
 * {
-    background-color: antiquewhite
+    background-image: url(iStock-636447976.jpg);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
     
+}
+
+{ 
+    background-image: url(Comp-Sci.jpg);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+* h3{
+     color:white;
+     
+
+
 }
